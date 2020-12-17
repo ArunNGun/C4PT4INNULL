@@ -1,9 +1,5 @@
 ### Hola, I'm Arun 👋
 
-<!--
-**C4PT4INNULL/C4PT4INNULL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
  - 🔭 I’m currently working on ReactJs
  - 🌱 I’m currently learning MERN Stack
@@ -11,7 +7,7 @@ Here are some ideas to get you started:
  - 📫 How to reach me: Email-Chaudharyarun5797@gmail.com
  - 😄 Pronouns: He/His
  - ⚡ Fun fact: I don’t have a favorite color. I have two: blue and black.
--->
+
 
 **Some of my Work**
 
