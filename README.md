@@ -5,7 +5,6 @@
  - 🌱 I’m currently learning MERN Stack
  - 💬 Ask me about Javascrpit or any other tech related stuff
  - 📫 How to reach me: Email-Chaudharyarun5797@gmail.com
- - 😄 Pronouns: He/His
  - ⚡ Fun fact: I don’t have a favorite color. I have two: blue and black.
 
 
